@@ -66,7 +66,7 @@ Thank you for sharing your learnings with us!
 
 ## What next ? 
 
-Also, Don't forget to check out our project "[CloudCaptain](https://github.com/nomadicmehul/CloudCaptain)" and get all things cloud-related!  
+Don't forget to check out our project "[CloudCaptain](https://github.com/nomadicmehul/CloudCaptain)" and get all things cloud-related!  
 
 We hope you find this project both informative and engaging.
 
