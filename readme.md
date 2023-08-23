@@ -47,7 +47,7 @@
 3. **Add Your Details:**
    In the file, add your name and a brief description of what you've learned from today's workshop. For example:
    
-   - **Name:** Mehul Patel
+   - **Name:** Mehul Patel <br>
      **Learnings:** Explored Docker containerization and its practical applications in development.
 
 4. **Commit Changes:**
